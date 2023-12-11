@@ -10,10 +10,6 @@
     }
    ],
    "theme_color_map": {
-     "TEXT_NORMAL": [
-       "99fff0",
-       "99fff0"
-     ],
       "KEYBOARD": [
          "#111111",
          "#FFFFFF"
