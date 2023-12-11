@@ -1,7 +1,7 @@
 {
-  "name": "SAO Aincrad",
+  "name": "Aincrad",
   "version": "2.0",
-  "description": "Orignal Authors: Gibbu#1211 & mxdhav",
+  "description": "A theme inspired by Kirito (GGO)",
   "color": "#000000",
   "authors": [
     {
@@ -15,20 +15,20 @@
          "#FFFFFF"
       ],
       "HEADER_PRIMARY": [
-         "#00ff00",
-         "#00ff00"
+         "#FBFBFB",
+         "#060607"
       ],
       "HEADER_SECONDARY": [
-         "#00ff00",
-         "#00ff00"
+         "#B6B6B6",
+         "#4F5660"
       ],
       "TEXT_NORMAL": [
-         "#00ff00",
-         "#00ff00"
+         "#000000",
+         "#000000"
       ],
       "TEXT_MUTED": [
-         "#00ff00",
-         "#00ff00"
+         "#B6B6B6",
+         "#747F8D"
       ],
       "INTERACTIVE_NORMAL": [
          "#C8C8C8",
@@ -39,12 +39,12 @@
          "#2E3338"
       ],
       "INTERACTIVE_ACTIVE": [
-         "#00ff00",
-         "#00ff00"
+         "#FFFFFF",
+         "#060607"
       ],
       "INTERACTIVE_MUTED": [
-         "#00ff00",
-         "#00ff00"
+         "#747474",
+         "#C7CCD1"
       ],
       "BACKGROUND_PRIMARY": [
          "#141414",
@@ -127,8 +127,8 @@
          "#6A7480"
       ],
       "CHANNELS_DEFAULT": [
-         "#00ff00",
-         "#00ff00"
+         "#B6B6B6",
+         "#6A7480"
       ]
    },
    "colours": {
@@ -146,8 +146,8 @@
       "PRIMARY_DARK_900": "#090909"
    },
   "background": {
-    "blur": 1.6,
-    "url": "https://raw.githubusercontent.com/LavaCatPlayz/themes/main/DiscordSAO.png",
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/LavaCatPlayz/themes/main/GGO.png",
     "alpha": 1
   }
 }
