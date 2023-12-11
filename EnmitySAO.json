@@ -129,15 +129,7 @@
       "CHANNELS_DEFAULT": [
          "#B6B6B6",
          "#6A7480"
-      ],
-     "TEXT_LINK": [
-       "#9090ff",
-       "#9090ff"
-     ],
-     "TEXT_POSITIVE": [
-       "#99fff0",
-       "#99fff0"
-     ]
+      ]
    },
    "colours": {
       "PRIMARY_DARK": "#747474",
