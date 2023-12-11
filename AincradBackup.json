@@ -1,6 +1,6 @@
 {
   "name": "SAO Aincrad",
-  "version": "1.3",
+  "version": "2.0",
   "description": "Orignal Authors: Gibbu#1211 & mxdhav",
   "color": "#000000",
   "authors": [
@@ -23,12 +23,12 @@
          "#4F5660"
       ],
       "TEXT_NORMAL": [
-         "#9090ff",
-         "#9090ff"
+         "#FBFBFB",
+         "#2E3338"
       ],
       "TEXT_MUTED": [
-         "#99fff0",
-         "#99fff0"
+         "#B6B6B6",
+         "#747F8D"
       ],
       "INTERACTIVE_NORMAL": [
          "#C8C8C8",
@@ -127,8 +127,8 @@
          "#6A7480"
       ],
       "CHANNELS_DEFAULT": [
-         "#99fff0",
-         "#99fff0"
+         "#B6B6B6",
+         "#6A7480"
       ]
    },
    "colours": {
@@ -146,8 +146,8 @@
       "PRIMARY_DARK_900": "#090909"
    },
   "background": {
-    "blur": 1.6,
+    "blur": 0,
     "url": "https://raw.githubusercontent.com/LavaCatPlayz/themes/main/DiscordSAO.png",
-    "alpha": 0.88
+    "alpha": 1
   }
 }
