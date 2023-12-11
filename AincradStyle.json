@@ -1,5 +1,5 @@
 {
-  "name": "SAO Kirito & Asuna",
+  "name": "SAO Aincrad",
   "version": "1.0",
   "description": "Orignal Authors: Gibbu#1211 & mxdhav",
   "color": "#000000",
@@ -11,8 +11,8 @@
    ],
    "theme_color_map": {
       "KEYBOARD": [
-         "#111111",
-         "#FFFFFF"
+         "#99fff0",
+         "#99fff0"
       ],
       "HEADER_PRIMARY": [
          "#FBFBFB",
@@ -23,8 +23,8 @@
          "#4F5660"
       ],
       "TEXT_NORMAL": [
-         "#99fff0",
-         "#99fff0"
+         "#FBFBFB",
+         "#2E3338"
       ],
       "TEXT_MUTED": [
          "#B6B6B6",
@@ -148,6 +148,6 @@
   "background": {
     "blur": 1.6,
     "url": "https://raw.githubusercontent.com/LavaCatPlayz/themes/main/DiscordSAO.png",
-    "alpha": 1
+    "alpha": 0.88
   }
 }
