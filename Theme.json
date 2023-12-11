@@ -154,7 +154,7 @@
       "PRIMARY_DARK_900": "#090909"
    },
   "background": {
-    "blur": 0,
+    "blur": ,
     "url": "https://raw.githubusercontent.com/LavaCatPlayz/themes/main/DiscordSAO.png",
     "alpha": 1
   }
