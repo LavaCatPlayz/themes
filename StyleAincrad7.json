@@ -1,6 +1,6 @@
 {
   "name": "Aincrad",
-  "version": "2.2",
+  "version": "2.4",
   "description": "A theme inspired by Kirito (GGO)",
   "color": "#000000",
   "authors": [
@@ -43,8 +43,8 @@
          "#000000"
       ],
       "INTERACTIVE_MUTED": [
-         "#747474",
-         "#C7CCD1"
+         "#000000",
+         "#000000"
       ],
       "BACKGROUND_PRIMARY": [
          "#141414",
