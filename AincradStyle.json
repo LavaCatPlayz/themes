@@ -11,8 +11,8 @@
    ],
    "theme_color_map": {
       "KEYBOARD": [
-         "#99fff0",
-         "#99fff0"
+         "#111111",
+         "#FFFFFF"
       ],
       "HEADER_PRIMARY": [
          "#FBFBFB",
